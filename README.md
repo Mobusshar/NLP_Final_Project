@@ -2,7 +2,7 @@
 
 # Semantic Similarity Analysis with NLP
 
-Welcome to the final project repository for NLP! Dive into our intricate analysis of word pairs using a plethora of datasets. Uncover contextual nuances and compare how computational models stand up against human judgment in the realm of semantic similarity.
+Welcome to the final project repository for NLP course! Dive into our intricate analysis of word pairs using a plethora of datasets. Uncover contextual nuances and compare how computational models stand up against human judgment in the realm of semantic similarity.
 
 
 ## About
