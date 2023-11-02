@@ -7,7 +7,7 @@ Welcome to the final project repository for NLP course! Dive into our intricate 
 
 ## About
 
-This project aims to explore semantic relationships between various word pairs using datasets like MC, RG, and WSD353. Through detailed visualizations and metrics, we analyze the effectiveness of FastText embeddings and other NLP techniques in capturing the essence of human judgments.
+This project aims to explore semantic relationships between various word pairs using datasets like MC, Senseval-2, RG, and WSD353. It uses various methods and packages such as WikiSim, FastText ect. Through detailed visualizations and metrics, we analyze the effectiveness of FastText embeddings and other NLP techniques in capturing the essence of human judgments.
 
 ## Installation
 
@@ -15,6 +15,7 @@ This project aims to explore semantic relationships between various word pairs u
 
 - Python 3.x
 - pip
+- WikiSim (https://github.com/asajadi/wikisim)
 
 ## Usage
 
@@ -27,6 +28,8 @@ cd NLP_Final_Project
 
 This code will engage the datasets, run the analysis, and generate insightful visualizations.
 
+  Initialize WikiSim to obtain required similarities.
+
 ## Datasets
 
 We employ the following datasets for our analysis:
@@ -34,6 +37,7 @@ We employ the following datasets for our analysis:
 - **MC Dataset**: Delve into word pairs of varied semantic relationships.
 - **RG Dataset**: Explore an extensive range of word pair spectrums.
 - **WSD353 Dataset**: Engage in a deep dive across an extensive semantic landscape.
+- **Senseval-2**: Use Senseval to test Wordsense Disambiguation methods.
 
 ## Results
 
@@ -42,7 +46,7 @@ Navigate to the `results` directory to view generated visualizations and insight
 ## Contributors
 
 - [Mobusshar](https://github.com/Mobusshar)
-- [Gökçe Eylül Ünlü](https://github.com/EylulTheFairy/NLP)
+- [Gökçe Eylül Ünlü](https://github.com/EylulTheFairy)
 
 Want to contribute? Please follow the [contributing guidelines](CONTRIBUTING.md).
 
