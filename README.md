@@ -42,7 +42,7 @@ Navigate to the `results` directory to view generated visualizations and insight
 ## Contributors
 
 - [Mobusshar](https://github.com/Mobusshar)
-
+- [Gökçe Eylül Ünlü](https://github.com/EylulTheFairy/NLP)
 
 Want to contribute? Please follow the [contributing guidelines](CONTRIBUTING.md).
 
